@@ -1,0 +1,14 @@
+# Batless Baseball
+
+
+```{r}
+install.packages("dplyr")
+install.packages("baseballr")
+```
+
+---
+## Part A: Learning this shit
+
+```{r}
+
+```
