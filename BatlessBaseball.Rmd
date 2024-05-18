@@ -2,13 +2,14 @@
 
 
 ```{r}
-install.packages("dplyr")
-install.packages("baseballr")
+library(baseballr)
+library(tidyverse)
+library(retrosheet)
 ```
 
 ---
 ## Part A: Learning this shit
 
 ```{r}
-
+getRetrosheet(type = "game", year = 2023)
 ```
